@@ -1,2 +1,2 @@
 # hello-world
-just 1st repository for reference
+just 1st repository for reference purpose
